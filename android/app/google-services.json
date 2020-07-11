@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "966754087879",
+    "firebase_url": "https://universityapp-99d40.firebaseio.com",
+    "project_id": "universityapp-99d40",
+    "storage_bucket": "universityapp-99d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966754087879:android:66c4cc2fef73170e591fe2",
+        "android_client_info": {
+          "package_name": "com.vishal.universityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966754087879-6acjkbvos246bmlg71fsr50s5a88n6sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPq6dnmxE2-jS18SNo1yt6t63tkZR8Q10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966754087879-6acjkbvos246bmlg71fsr50s5a88n6sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,69 @@
+name: universityapp
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^8.8.1
+  firebase_auth: ^0.15.5+2
+  cloud_firestore: ^0.13.4+2
+  firebase_core: ^0.4.4+3
+  animated_text_kit: ^2.0.0
+  modal_progress_hud: ^0.1.3
+  flutter_custom_clippers: ^1.1.1
+  url_launcher: ^5.4.10
+  curved_navigation_bar: ^0.3.2
+  intl: ^0.16.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/person.png
+    - assets/images/charusat_logo.jpg
+    - assets/images/charusat_logo_2.jpg
+    - assets/images/info_icon.png
+    - assets/images/success_icon.png
+    - assets/images/university_image_2.jpg
+    - assets/images/college_1.jpg
+
+
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: assets/fonts/Pacifico/Pacifico-Regular.ttf
+          style: italic
+    - family: Ubuntu
+      fonts:
+        - asset: assets/fonts/Ubuntu/Ubuntu-Bold.ttf
+        - asset: assets/fonts/Ubuntu/Ubuntu-BoldItalic.ttf
+        - asset: assets/fonts/Ubuntu/Ubuntu-Italic.ttf
+        - asset: assets/fonts/Ubuntu/Ubuntu-Light.ttf
+        - asset: assets/fonts/Ubuntu/Ubuntu-LightItalic.ttf
+        - asset: assets/fonts/Ubuntu/Ubuntu-Medium.ttf
+        - asset: assets/fonts/Ubuntu/Ubuntu-MediumItalic.ttf
+        - asset: assets/fonts/Ubuntu/Ubuntu-Regular.ttf
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway/Raleway-Regular.ttf
+    - family: Kaushan_Script
+      fonts:
+        - asset: assets/fonts/Kaushan_Script/KaushanScript-Regular.ttf
+    - family: Special_Elite
+      fonts:
+        - asset: assets/fonts/Special_Elite/SpecialElite-Regular.ttf
+  
