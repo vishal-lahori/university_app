@@ -1,6 +1,6 @@
 # universityapp
 
-A new Flutter application.
+A new Flutter application for any University.
 
 ## Getting Started
 
